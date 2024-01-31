@@ -1,0 +1,143 @@
+[[PokerIsomorphism]]
+arch = "aarch64"
+git-tree-sha1 = "b8129f14dcaa3af8681b7de6d2a9a70521f3b775"
+os = "macos"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "c193934126231dd1fb7f51014a8e2741ce9820e7a0a0b2f0ee5f265292f4eccf"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[PokerIsomorphism]]
+arch = "aarch64"
+git-tree-sha1 = "87f673c9bdf4ccac94a87912a3d62f03d58ce865"
+libc = "glibc"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "dfc14c59adce393b25f5fa2f161b23aaf5e04bc8219f9f5a74361f8d8788b98d"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[PokerIsomorphism]]
+arch = "aarch64"
+git-tree-sha1 = "97b1184a4ccdac25b3768519206cc4cd23e59984"
+libc = "musl"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "39d8c96003f59ced5120bab2c4b633090b274d4759eb1965ace596282dbfe21c"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.aarch64-linux-musl.tar.gz"
+[[PokerIsomorphism]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2ace538f58266702edcb765915bb3493be8e7680"
+libc = "glibc"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "934bd41a83474a7e5fcf3e04f4e7a03767baca2659b398dc897e0cafbb0a8a7a"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[PokerIsomorphism]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f04510d55ef58ea9f58d4ba2990d4119634b0bbd"
+libc = "musl"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "12d05c921e4776b5ecee76c59bfbdc9089cd70f953a2dfae73df83e27164ddac"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[PokerIsomorphism]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f04eae34aaa230c7b6ca9bd4818e146a1db29dcd"
+libc = "glibc"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "b4dfe240269e9afd3d75af8ad9468965c9fbadb0855f4b398c1170d10e893277"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[PokerIsomorphism]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6e45b78822dea62186eb92e3f687a7d47aba7274"
+libc = "musl"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "2d9554b8286c9c0cba2e35ffa040ca3bef50a2aac094f729de2c839089652d3a"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[PokerIsomorphism]]
+arch = "i686"
+git-tree-sha1 = "b6c8db496bc1449cf939d2fdded11922c83adaa1"
+libc = "glibc"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "b613cee80f498824729eec64b4e6f03d4d51dc63b456dc8d936c9f8bb1dcc2fe"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.i686-linux-gnu.tar.gz"
+[[PokerIsomorphism]]
+arch = "i686"
+git-tree-sha1 = "46ee2e18968060032186669c8d77ca171c20246b"
+libc = "musl"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "80015321e71445f9eac3a5644ec3566ad7fea6161da0bbbbd96b692174eac948"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.i686-linux-musl.tar.gz"
+[[PokerIsomorphism]]
+arch = "i686"
+git-tree-sha1 = "b0261398b20dcd45ee4e3e14c889d5e7125abf9b"
+os = "windows"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "d0fb4023b10f2c2e2b14632633f93424b18a2c981d402a9068c9f365cfba92a9"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.i686-w64-mingw32.tar.gz"
+[[PokerIsomorphism]]
+arch = "powerpc64le"
+git-tree-sha1 = "372c92c963e32d52ae1368a09beab12f1037a42b"
+libc = "glibc"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "e21af15060993ac031b0a1df543db92a6a4c6f8073839f62b9c1949115891cbf"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[PokerIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "9872c35bbdf4dc3e65456df1fed50ad5ee60f5dc"
+os = "macos"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "caef555b214603e9b9ba0fd4c5c4628e2ac68728986fdb074bba2b72515219fe"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[PokerIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "3c11bf2098895ee58080db0828403485f84ff58f"
+libc = "glibc"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "eefc18cfc9e6d32bd330c8429a452d3b0301501ee52eb583b5aa61b10ff4410f"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[PokerIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "ed65f161604074db2eed2abcc6d2f1f5aa58a4b9"
+libc = "musl"
+os = "linux"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "a958614ca02be275c14d946b25e75e2444562300b690e40818cf56c23582307b"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.x86_64-linux-musl.tar.gz"
+[[PokerIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "580be615cc9490ea10bf546c4f2533f5cc010b2c"
+os = "freebsd"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "15590852b8dd605c1fcd4d098fcf74ecda4d21f0fcf48f1fdaec304eec186535"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[PokerIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "a6a803a1fe5c7d991161fbb5db3d3737149fa90e"
+os = "windows"
+
+    [[PokerIsomorphism.download]]
+    sha256 = "b673ea48e34cac51428064b8b6d6944224909d6f76c653114edd7c19572d288b"
+    url = "https://github.com/brewer-b/PokerIsomorphism_jll.jl/releases/download/PokerIsomorphism-v1.0.0+0/PokerIsomorphism.v1.0.0.x86_64-w64-mingw32.tar.gz"
